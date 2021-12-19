@@ -4,5 +4,5 @@ export class Products{
     proPrice:number;
     proRatings:number;
     proReviews:string;
-    proSize:number;
+    proSiz:number;
 }

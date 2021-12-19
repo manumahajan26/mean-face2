@@ -7,5 +7,5 @@ export class Customer{
     custLName:string;
     custAddress:CustAddress;
     custContact:number;
-    baughtProducts:Products;
+    baughtProduct:Products;
 }
